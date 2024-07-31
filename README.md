@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=99CCFF&height=100&section=header&text=Cheongbee%20Park&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=100&section=header&text=Cheongbee%20Park&fontSize=50)
 
 
 
