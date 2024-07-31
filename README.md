@@ -11,7 +11,7 @@
 ### 📱 SeedoPJT
   The web service helps visually impaired individuals navigate safely by alerting them to obstacles, reading texts or situations, and detecting falls.  
 - Role: Server Developer
-- Skill: GCP, DJango, uWSGI, NGINX
+- Skills: GCP, DJango, uWSGI, NGINX
 ### 💇‍♂️ Shinbeehan hairsalon
 
 ### 📈GAN optimization
