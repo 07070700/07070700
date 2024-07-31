@@ -8,10 +8,12 @@
 - 🔥 still stuyding to be AI developer
 
 ## Projects
-### SeedoPJT
-### Shinbeehan hairsalon
-### GAN optimization
-### Demand prediction
+### 📱 SeedoPJT
+  The web service helps visually impaired individuals navigate safely by alerting them to obstacles, reading texts or situations, and detecting falls.  
+### 💇‍♂️ Shinbeehan hairsalon
+
+### 📈GAN optimization
+### : Demand prediction
 
 <!--
 **07070700/07070700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
