@@ -6,7 +6,12 @@
 - 📚 majored Mathematics
 - 👩‍💻 completed AI track of KT AIVLE SCHOOL
 - 🔥 still stuyding to be AI developer
-  
+
+## Projects
+### SeedoPJT
+### Shinbeehan hairsalon
+### GAN optimization
+### Demand prediction
 
 <!--
 **07070700/07070700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
