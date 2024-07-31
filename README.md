@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=100&section=header&text=Cheongbee%20Park&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=100&width=100&section=header&text=Cheongbee%20Park&fontSize=50)
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
