@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=100&section=header&text=Cheongbee%20Park&fontSize=50)
 
 !(https://github-readme-stats.vercel.app/api?username=07070700&show_icons=true&theme=transparent)
+[![Cheongbee's GitHub stats](https://github-readme-stats.vercel.app/api?username=07070700&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About ME
 
