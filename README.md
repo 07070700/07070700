@@ -1,7 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=100&section=header&text=Cheongbee%20Park&fontSize=50)
 
+## About ME
 
-
+- 🏫 graduated University of Seoul
+- 📚 majored Mathematics
+- 👩‍💻 completed AI track of KT AIVLE SCHOOL
+- 🔥 still stuyding to be AI developer
+  
 
 <!--
 **07070700/07070700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
