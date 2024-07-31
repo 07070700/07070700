@@ -10,11 +10,13 @@
 ## Projects
 ### 📱 SeedoPJT
   The web service helps visually impaired individuals navigate safely by alerting them to obstacles, reading texts or situations, and detecting falls.  
+- Role: Server Developer
+- Skill: GCP, DJango, uWSGI, NGINX
 ### 💇‍♂️ Shinbeehan hairsalon
 
 ### 📈GAN optimization
 ### : Demand prediction
-
+### : Chatbot
 <!--
 **07070700/07070700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
