@@ -6,8 +6,6 @@
   </a>
 </div>
 
-[![Cheongbee's GitHub stats](https://github-readme-stats.vercel.app/api?username=07070700&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 ## About ME
 
 - 🏫 graduated University of Seoul
