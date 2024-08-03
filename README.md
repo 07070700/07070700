@@ -9,7 +9,7 @@
 ## About ME
 
 - 🏫 graduated from University of Seoul
-- 📚 majored Mathematics
+- 📚 majored in Mathematics
 - 👩‍💻 completed AI track of KT AIVLE SCHOOL
 - 🔥 still stuyding to be AI developer
 
